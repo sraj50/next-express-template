@@ -1,0 +1,4 @@
+.next/
+/node_modules/
+pages/_document.tsx
+package.json
